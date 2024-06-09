@@ -15,7 +15,10 @@ public class Setclass {
 		hs.add("hi");
 		hs.add("bye");
 		hs.add("bye");
+		hs.add(null);
+
 		System.out.println(hs);
+		System.out.println("adding the iterator");
 		
 		for(String str:hs) {
 			
