@@ -17,6 +17,7 @@ public class ArrayListexp {
 	  arr.add(7);
 	  arr.add(2);
 
+	  System.out.println(arr);
 	  
 	  for(int a : arr) {
 		  
